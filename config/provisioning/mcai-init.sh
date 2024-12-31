@@ -31,7 +31,10 @@ NODES=(
     "https://github.com/chflame163/ComfyUI_LayerStyle"
     "https://github.com/yolain/ComfyUI-Easy-Use"
     "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch"
-    "https://github.com/Layer-norm/comfyui-lama-remover"
+#    "https://github.com/Layer-norm/comfyui-lama-remover"
+    "https://github.com/M1kep/ComfyLiterals"
+    "https://github.com/mav-rik/facerestore_cf"
+    "https://github.com/cubiq/ComfyUI_InstantID"
 )
 
 CHECKPOINT_MODELS=(
